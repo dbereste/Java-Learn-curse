@@ -1,0 +1,15 @@
+package ex2;
+
+public class ex02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String name="Mihai Munteanu";
+		int an=1965;
+		String functie="Sef sectie";
+		int lucr=5;
+		double sal=500.95;
+		
+	}
+
+}

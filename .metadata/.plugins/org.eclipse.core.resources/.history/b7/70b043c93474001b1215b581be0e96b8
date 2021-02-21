@@ -1,0 +1,20 @@
+package ex3;
+import java.util.Scanner;
+
+public class ex05 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double i1,i2;
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Introduceti primul nr:");
+		i1=sc.nextInt();
+		System.out.print("Introduceti al doilea nr:");
+		i2=sc.nextInt();
+		if (i1 && i2 >0) {
+			System.out.print("Numerele sunt pare");
+		}
+		
+	}
+
+}

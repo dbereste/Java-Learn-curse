@@ -1,0 +1,11 @@
+package ex1;
+
+public class ex01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String s = "Programare Java!";
+		System.out.println("Caracterul de la pozitia 0 este " + str.charAt(0));
+	}
+
+}

@@ -1,0 +1,36 @@
+package ex2;
+
+public class ex02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String name="Mihai Munteanu";
+		int an=1965;
+		String functie="Sef sectie";
+		int lucr=5;
+		double sal=5000.95;
+		
+		if (lucr>4) {
+			System.out.print(name + " din " + an + ", " + functie + ", i-a fost marit salariul cu 500 de lei si la momentul dat constituie " + (sal + 500));
+		}
+		String name1="Mihai Munteanu";
+		int an1=1965;
+		String functie1="Sef sectie";
+		int lucr1=5;
+		double sal1=5000.95;
+		
+		if (lucr1>4) {
+			System.out.print(name1 + " din " + an1 + ", " + functie1 + ", i-a fost marit salariul cu 500 de lei si la momentul dat constituie " + (sal1 + 500));
+		}
+		String name2="Mihai Munteanu";
+		int an2=1965;
+		String functie2="Sef sectie";
+		int lucr2=5;
+		double sal2=5000.95;
+		
+		if (lucr2>4) {
+			System.out.print(name2 + " din " + an2 + ", " + functie2 + ", i-a fost marit salariul cu 500 de lei si la momentul dat constituie " + (sal2 + 500));
+		}
+	}
+
+}

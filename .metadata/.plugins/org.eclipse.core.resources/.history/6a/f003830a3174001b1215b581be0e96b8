@@ -1,0 +1,12 @@
+package ex3;
+
+public class ex04 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i;
+		Scanner sc = new Scanner(System.in);
+		
+	}
+
+}
